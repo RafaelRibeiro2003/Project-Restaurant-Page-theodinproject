@@ -9,7 +9,7 @@ Durante o desenvolvimento, foram aplicados conceitos como manipulação do DOM, 
 O projeto também permitiu aprofundar o uso de módulos JavaScript, separando cada secção da página em diferentes ficheiros e organizando o código de forma mais modular e reutilizável.
 
 ## Podes visualizar o projeto aqui:
-https://rafaelribeiro2003.github.io/Project-Admin-Dashboard-theodinproject/
+https://rafaelribeiro2003.github.io/Project-Restaurant-Page-theodinproject/
 
 ## Screenshot:
 ![Restaurant Page](./preview.gif)
@@ -29,7 +29,7 @@ During the development, I applied concepts such as DOM manipulation, ES6 modules
 The project also allowed me to deepen my understanding of JavaScript modules by separating each section of the page into different files and organizing the code in a more modular and reusable way.
 
 ## Live Demo
-https://rafaelribeiro2003.github.io/Project-Admin-Dashboard-theodinproject/
+https://rafaelribeiro2003.github.io/Project-Restaurant-Page-theodinproject/
 
 ## Screenshot
 
